@@ -7,7 +7,7 @@ public class ExercicioFibonacci {
             numa=num;
             num=nump;
 
-             System.out.println("o numero e "+numa );
+             System.out.println(""+numa );
         }
         
     }
