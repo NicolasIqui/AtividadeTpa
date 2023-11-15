@@ -1,8 +1,8 @@
 public class ExercicioFibonacci {
     public static void main(String[] args) {
     
-        int num=1,numa=0,nump=num+numa;
-        while(num<=55){
+        int  i=1,num=1,numa=0,nump=num+numa;
+        while(i<=10){
             nump=numa+num;
             numa=num;
             num=nump;
